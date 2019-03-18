@@ -31,19 +31,19 @@ let partyArray = [
     },
     {
     name: "Alex Robertson",
-    Photo: './Images/nick.jpg',
+    Photo: './Images/20151213_011646.jpg',
     Role: "Bridesmaid",
     Detail: "Met the bride freshmen year at MSU during a happenstance battle in MarioKart. Their friendship has continued by making jokes, watching football, and drinking Founders beer. Likes include eating healthy, hiking, and reading library books."
     },
     {
     name: "Joseph Hallman",
-    Photo: './Images/nick.jpg',
+    Photo: './Images/20180602_212724.jpg',
     Role: "Groomsman",
     Detail: "Something Something Something"
     },
     {
     name: "Emily Wynn",
-    Photo: './Images/nick.jpg',
+    Photo: './Images/IMG_20180707_215005.jpg',
     Role: "Bridesmaid",
     Detail: "Met the bride during high school marching band, developing a friendship over making homemade calculus videos. Emily and Ashley have maintained a close friendship by living together at MSU and now in the Chicagoland area. Likes include MSU sports, thoughtful reading, and baking bread."
     },
@@ -61,7 +61,7 @@ let partyArray = [
     },
     {
     name: 'Spencer "Frank" Meyer',
-    Photo: './Images/nick.jpg',
+    Photo: './Images/20170412_204907.jpg',
     Role: "Groomsman",
     Detail: "Something Something Something"
     }
