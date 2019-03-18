@@ -25,6 +25,21 @@ body {
     font-family: 'Tangerine', cursive;
 }
 
+#story1 {
+    width: 200px;
+    float: left;
+}
+
+#story2 {
+    width: 300px;
+    float: right;
+}
+
+#story3 {
+    width: 300px;
+    float: left;
+}
+
 a {
     color: black !important;
 }
@@ -71,6 +86,10 @@ a {
 p {
     font-size: 30px;
     font-family: 'Tangerine', cursive;
+}
+
+.story {
+    font-family: 'Dancing Script', cursive
 }
 
 .info {
