@@ -8,7 +8,7 @@ let partyArray = [
     {
     name: "Sara St. Aubin",
     Role: "Matron of Honor", 
-    Photo: './Images/IMG_20150926_131913.jpg',
+    Photo: './Images/2436.jpeg',
     Detail: 'Met the bride via a mutual bus stop in elementary school. The friendship was fostered over banging on trashcans in the high school drumline, and beginning our days singing "Black Betty." Likes include making cookies, travelling, and playing with her awesome son.'
     },
     {
