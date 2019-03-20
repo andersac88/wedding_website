@@ -1,3 +1,5 @@
+
+
 body {
     background-image: url("../Images/ruslan-keba-476139-unsplash.jpg");
 }
@@ -9,6 +11,10 @@ body {
 
 .picture {
     width: 100%;
+}
+
+.modal-content {
+    background-color: rgb(255, 235, 231);
 }
 
 .whyVenue {
@@ -46,6 +52,7 @@ a {
 
 .bridalParty {
     height: 300px;
+    border-radius: 50%;
 }
 .navbar-brand {
     width: 100%;
@@ -85,11 +92,12 @@ a {
 
 p {
     font-size: 30px;
-    font-family: 'Tangerine', cursive;
+    font-family: 'Patrick Hand', cursive;
 }
 
 .story {
-    font-family: 'Dancing Script', cursive
+    font-family: 'Patrick Hand', cursive;
+    font-size: 20px;
 }
 
 .info {
@@ -139,3 +147,12 @@ img.manor {
     font-size: 30px;
     font-family: 'Tangerine', cursive;
 }
+
+.carousel-item {
+    height: 550px;
+    overflow: hidden;
+    width: 100%;
+    }
+    .carousel-item img {
+    width: 100%;
+    }
