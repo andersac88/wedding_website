@@ -1,7 +1,7 @@
 
 
 body {
-    background-image: url("../Images/ruslan-keba-476139-unsplash.jpg");
+    background-image: url("../Images/viktor-mogilat-12728-unsplash.jpg");
 }
 
 .container {
@@ -18,7 +18,8 @@ body {
 }
 
 .whyVenue {
-    font-size: 25px !important;
+    font-size: 20px !important;
+    font-family: 'Bitter', serif;
 }
 
 
@@ -27,7 +28,7 @@ body {
     height: 90%;
 }
 #slogan {
-    font-size: 50px;
+    font-size: 80px;
     font-family: 'Tangerine', cursive;
 }
 
@@ -44,6 +45,10 @@ body {
 #story3 {
     width: 300px;
     float: left;
+}
+
+.role {
+    font-size: 25px;
 }
 
 a {
@@ -65,7 +70,7 @@ a {
 }
 
 .navbar {
-    font-family: 'Tangerine', cursive;
+    font-family: 'Bitter', serif;
     font-size: 50px;
     border-bottom:2px solid #000;
     background-color: rgba(255, 235, 231, .5)
@@ -91,12 +96,12 @@ a {
 }
 
 p {
-    font-size: 30px;
-    font-family: 'Patrick Hand', cursive;
+    font-size: 20px;
+    font-family: 'Crimson Text', serif;
 }
 
 .story {
-    font-family: 'Patrick Hand', cursive;
+    font-family: 'Crimson Text', serif;
     font-size: 20px;
 }
 
@@ -116,7 +121,13 @@ p {
 }
 
 #manor {
-    width: 90%;
+    width: 45%;
+    float: left;    
+}
+
+#manor1 {
+    width: 45%;
+    float: right;
 }
 
 #wLeft {
@@ -128,13 +139,8 @@ p {
 }
 
 
-img.manor {
-    height: 80%;
-    width: 80%;
-}
-
 .topper {
-    font-size: 25px !important;
+    font-size: 15px !important;
 }
 
 #head {

@@ -39,7 +39,7 @@ let partyArray = [
     name: "Joseph Hallman",
     Photo: './Images/20180602_212724.jpg',
     Role: "Groomsman",
-    Detail: "Joe-Joe-Binks is the often fogotten character who was commonly seen besides the beloved Jar-Jar Binks in Star Wars: Episode 1 - The Phantom Menace. Andrew and Joe met following Joe's fall from grace with the studio execs and his relocation to the western suburbs of Chicago."
+    Detail: "Joe-Joe-Binks is the often forgotten character who was commonly seen besides the beloved Jar-Jar Binks in Star Wars: Episode 1 - The Phantom Menace. Andrew and Joe met following Joe's fall from grace with the studio execs and his relocation to the western suburbs of Chicago."
     },
     {
     name: "Emily Wynn",
@@ -49,7 +49,7 @@ let partyArray = [
     },
     {
     name: "Theodore Bromann",
-    Photo: './Images/nick.jpg',
+    Photo: './Images/_storage_emulated_0_Android_data_com.sec.imsservice_files_Samsung Messages_20190320_202649_1553131641832.jpg',
     Role: "Groomsman",
     Detail: `Theodore "Teddy" Bromann and Andrew met in kindergarden through their mutual friend, Jeff (see Best Man). Unfortunately, Teddy and Andrew have not been able to see much of eachother since Teddy's relocation to Oklahoma? Nebraska? Wait, no Kansas. For some reason, Teddy volunatarily moved to Kansas.`
     },
