@@ -68,7 +68,7 @@ let partyArray = [
   ];
 
 
-  $(document).on("mouseover", ".bridalParty", function(){
+  $(document).on("click", ".bridalParty", function(){
     let value = $(this).attr("data-value")
     console.log(value)
     $("#partyName").text(partyArray[value].name)

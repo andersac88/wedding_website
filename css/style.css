@@ -19,7 +19,8 @@ body {
 
 .whyVenue {
     font-size: 20px !important;
-    font-family: 'Bitter', serif;
+    font-family: 'ZCOOL XiaoWei', serif;
+    font-weight: 900;
 }
 
 
@@ -67,10 +68,10 @@ a {
     background-color: rgba(255, 235, 231, .5);
     font-family: 'Tangerine', cursive;
     font-size: 20px;
+    font-weight: 900;
 }
 
 .navbar {
-    font-family: 'Bitter', serif;
     font-size: 50px;
     border-bottom:2px solid #000;
     background-color: rgba(255, 235, 231, .5)
@@ -97,12 +98,14 @@ a {
 
 p {
     font-size: 20px;
-    font-family: 'Crimson Text', serif;
+    font-family: 'ZCOOL XiaoWei', serif;
+    font-weight: 900;
 }
 
 .story {
-    font-family: 'Crimson Text', serif;
+    font-family: 'ZCOOL XiaoWei', serif;
     font-size: 20px;
+    font-weight: 900;
 }
 
 .info {
