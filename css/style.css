@@ -69,6 +69,16 @@ a {
     width: 100%;
 }
 
+.registry {
+    width: 85%;
+}
+
+.rLink {
+    font-size: 20px;
+    font-family: 'ZCOOL XiaoWei', serif;
+    font-weight: bolder;
+}
+
 .foot {
     background-color: rgba(255, 235, 231, .5);
     font-family: 'Tangerine', cursive;
@@ -167,6 +177,7 @@ p {
     overflow: hidden;
     width: 100%;
     }
-    .carousel-item img {
+
+.carousel-item img {
     width: 100%;
     }
