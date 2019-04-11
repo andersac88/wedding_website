@@ -27,7 +27,7 @@ let partyArray = [
     name: "Peter Jackson", 
     Photo: './Images/IMG_20180903_134435.jpg',
     Role: "Groomsman",
-    Detail: "Andrew first met Peter through the driver-side window of his car. Peter was on the off ramp of a freeway sellig oranges. Andrew, being a generous soul, offered to take Peter for a meal and a haircut. While Peter only took up the former offer, that meal was the start of a life-long friendship."
+    Detail: "Andrew first met Peter through the driver-side window of his car. Peter was on the off ramp of a freeway selling oranges. Andrew, being a generous soul, offered to take Peter for a meal and a haircut. While Peter only took up the former offer, that meal was the start of a life-long friendship."
     },
     {
     name: "Alex Robertson",
