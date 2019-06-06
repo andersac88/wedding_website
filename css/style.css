@@ -181,3 +181,10 @@ p {
 .carousel-item img {
     width: 100%;
     }
+
+#map {
+        height: 500px;
+        width: auto;
+        padding-bottom: 100px;
+    }
+    
