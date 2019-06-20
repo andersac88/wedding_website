@@ -185,6 +185,6 @@ p {
 #map {
         height: 500px;
         width: auto;
-        padding-bottom: 100px;
+        margin-top: 5px;
     }
     
